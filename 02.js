@@ -18,3 +18,6 @@ function twoOldestAges(ages) {
     return ages.splice(-2)
 
 }
+
+
+
